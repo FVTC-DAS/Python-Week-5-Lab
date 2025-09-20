@@ -8,13 +8,10 @@ The goal of this lab is to get hands-on practice writing both `while` and `for` 
 3. Open **week5_lab.ipynb** and complete the tasks in the designated cells.
 4. Run all cells to verify your outputs.
 5. Save, then **commit** and **push** your changes back to GitHub.
-6. (If your section uses autograding) check the **Actions** tab for test results after your push.
-
-> You do **not** need to use your personal-finance-analyzer repo for this lab.
 
 ## Tasks
 
-Create and complete the single Jupyter Notebook named **week5_lab.ipynb**. Each task should be in its own cell or set of cells.
+Complete the single Jupyter Notebook named **week5_lab.ipynb**. Each task should be in its own cell or set of cells.
 
 ### Task 1: Countdown
 - Use a `while` loop to count down from 10 to 1.
@@ -36,4 +33,4 @@ Create and complete the single Jupyter Notebook named **week5_lab.ipynb**. Each 
 
 ## What to Submit
 - Push your completed **week5_lab.ipynb** to this GitHub Classroom repository.
-- No separate URL submission is required unless your instructor requests it.
+- Submit the link to your repo in Blackboard.
